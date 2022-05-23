@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommanderQGL", "CommanderQGL.csproj", "{16C634ED-2E60-449B-8C0F-81A87C266F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16C634ED-2E60-449B-8C0F-81A87C266F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C634ED-2E60-449B-8C0F-81A87C266F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C634ED-2E60-449B-8C0F-81A87C266F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C634ED-2E60-449B-8C0F-81A87C266F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3967D158-5008-47C1-8BB6-E5778AB96A0A}
+	EndGlobalSection
+EndGlobal
